@@ -14,4 +14,4 @@
 
  "possible for computers to tag photos with names even if the uploader and the subject are complete strangers"
  - brings up a lot of unease about privacy
-- there is so much information that comes with our face and our face shows up in more places than we know...
+- there is so much information that comes with our face and our face shows up in more places than we know
